@@ -1,0 +1,14 @@
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\Reverse_String\bin\Debug\netcoreapp3.0\Reverse_String.exe
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\Reverse_String\bin\Debug\netcoreapp3.0\Reverse_String.deps.json
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\Reverse_String\bin\Debug\netcoreapp3.0\Reverse_String.runtimeconfig.json
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\Reverse_String\bin\Debug\netcoreapp3.0\Reverse_String.runtimeconfig.dev.json
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\Reverse_String\bin\Debug\netcoreapp3.0\Reverse_String.dll
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\Reverse_String\bin\Debug\netcoreapp3.0\Reverse_String.pdb
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\Reverse_String\obj\Debug\netcoreapp3.0\Reverse_String.csproj.AssemblyReference.cache
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\Reverse_String\obj\Debug\netcoreapp3.0\Reverse_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\Reverse_String\obj\Debug\netcoreapp3.0\Reverse_String.AssemblyInfoInputs.cache
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\Reverse_String\obj\Debug\netcoreapp3.0\Reverse_String.AssemblyInfo.cs
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\Reverse_String\obj\Debug\netcoreapp3.0\Reverse_String.csproj.CoreCompileInputs.cache
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\Reverse_String\obj\Debug\netcoreapp3.0\Reverse_String.dll
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\Reverse_String\obj\Debug\netcoreapp3.0\Reverse_String.pdb
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\Reverse_String\obj\Debug\netcoreapp3.0\Reverse_String.genruntimeconfig.cache

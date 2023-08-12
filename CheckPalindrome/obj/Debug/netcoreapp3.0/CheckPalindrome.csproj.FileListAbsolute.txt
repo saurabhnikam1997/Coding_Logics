@@ -1,0 +1,14 @@
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\CheckPalindrome\bin\Debug\netcoreapp3.0\CheckPalindrome.exe
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\CheckPalindrome\bin\Debug\netcoreapp3.0\CheckPalindrome.deps.json
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\CheckPalindrome\bin\Debug\netcoreapp3.0\CheckPalindrome.runtimeconfig.json
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\CheckPalindrome\bin\Debug\netcoreapp3.0\CheckPalindrome.runtimeconfig.dev.json
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\CheckPalindrome\bin\Debug\netcoreapp3.0\CheckPalindrome.dll
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\CheckPalindrome\bin\Debug\netcoreapp3.0\CheckPalindrome.pdb
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\CheckPalindrome\obj\Debug\netcoreapp3.0\CheckPalindrome.csproj.AssemblyReference.cache
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\CheckPalindrome\obj\Debug\netcoreapp3.0\CheckPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\CheckPalindrome\obj\Debug\netcoreapp3.0\CheckPalindrome.AssemblyInfoInputs.cache
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\CheckPalindrome\obj\Debug\netcoreapp3.0\CheckPalindrome.AssemblyInfo.cs
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\CheckPalindrome\obj\Debug\netcoreapp3.0\CheckPalindrome.csproj.CoreCompileInputs.cache
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\CheckPalindrome\obj\Debug\netcoreapp3.0\CheckPalindrome.dll
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\CheckPalindrome\obj\Debug\netcoreapp3.0\CheckPalindrome.pdb
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\CheckPalindrome\obj\Debug\netcoreapp3.0\CheckPalindrome.genruntimeconfig.cache

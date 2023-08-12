@@ -1,0 +1,14 @@
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\LINQ_Prep\bin\Debug\netcoreapp3.0\LINQ_Prep.exe
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\LINQ_Prep\bin\Debug\netcoreapp3.0\LINQ_Prep.deps.json
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\LINQ_Prep\bin\Debug\netcoreapp3.0\LINQ_Prep.runtimeconfig.json
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\LINQ_Prep\bin\Debug\netcoreapp3.0\LINQ_Prep.runtimeconfig.dev.json
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\LINQ_Prep\bin\Debug\netcoreapp3.0\LINQ_Prep.dll
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\LINQ_Prep\bin\Debug\netcoreapp3.0\LINQ_Prep.pdb
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\LINQ_Prep\obj\Debug\netcoreapp3.0\LINQ_Prep.csproj.AssemblyReference.cache
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\LINQ_Prep\obj\Debug\netcoreapp3.0\LINQ_Prep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\LINQ_Prep\obj\Debug\netcoreapp3.0\LINQ_Prep.AssemblyInfoInputs.cache
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\LINQ_Prep\obj\Debug\netcoreapp3.0\LINQ_Prep.AssemblyInfo.cs
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\LINQ_Prep\obj\Debug\netcoreapp3.0\LINQ_Prep.csproj.CoreCompileInputs.cache
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\LINQ_Prep\obj\Debug\netcoreapp3.0\LINQ_Prep.dll
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\LINQ_Prep\obj\Debug\netcoreapp3.0\LINQ_Prep.pdb
+C:\Working\IPreparation\Coding_Questions_Interview\Coding_Logics\LINQ_Prep\obj\Debug\netcoreapp3.0\LINQ_Prep.genruntimeconfig.cache
